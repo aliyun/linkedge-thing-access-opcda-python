@@ -1,0 +1,8 @@
+[console_scripts]
+pyro4-check-config = Pyro4.configuration:main
+pyro4-flameserver = Pyro4.utils.flameserver:main
+pyro4-httpgateway = Pyro4.utils.httpgateway:main
+pyro4-ns = Pyro4.naming:main
+pyro4-nsc = Pyro4.nsc:main
+pyro4-test-echoserver = Pyro4.test.echoserver:main
+
